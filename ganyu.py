@@ -663,7 +663,7 @@ def ganyu():
 
 if __name__ == '__main__': 
     a = Turtle()
-    t.screensize(800, 800)
+    t.screensize(1600, 1000)
     t.bgcolor('black')
     t.pencolor('white')
     t.speed(0)
